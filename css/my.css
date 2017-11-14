@@ -15,3 +15,56 @@ img {
     width: 35%;
     height: 40%;
 }
+.parrafo {
+    color:brown;
+}
+
+.puntos {
+    text-align:left;
+    font-size: 150%;
+    background-color: brown;
+    
+}
+.parraforake {
+    color: bisque;
+}
+
+.parrafoBen {
+    color:burlywood;  
+}
+
+.smile{
+      width: 80%;
+    height: 75%;
+    
+}
+.quienes {
+    text-align:left;
+    font-size: 250%;
+    background-color: brown;
+        }
+.nueimag{
+    width: 50%;
+    height: 50;
+}
+
+.microH{
+    color: black;
+    font-size: 120%;
+}
+.Tituloo{
+    text-align:left;
+    font-size: 150%;
+    background-color: brown;
+    
+}
+
+.parrafomilr{
+     color: bisque;
+    
+}
+.logo{
+    text-align: right;
+    width: 10%;
+    height: 10%;
+}
