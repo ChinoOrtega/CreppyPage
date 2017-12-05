@@ -11,9 +11,9 @@ uno a travez de su perfil puede compartirideas opiniones historias videos con lo
 ![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-47-31.png)
 
 
-!
+!* acceso a no solo historias sino tambien videos de youtube
 ![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-49-35.png)
 * forma de logeo a pagina personal interna de crepypage
-
+*Dependencia:Boostrap,jQuery
 
 
