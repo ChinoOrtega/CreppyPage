@@ -4,7 +4,7 @@
 * Materia: Sistema De Informacion
 * Descripcion:Elegi este proyecto con la finalidad de crear una pagina donde personas de diferentes partes puedan contar historias echos paranormales o crear sus propias crepypastas un lugar donde cada uno comparte su imaginacion e historias con la comunidad 
 uno a travez de su perfil puede compartirideas opiniones historias videos con los demas  
-![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-46-25.png)
+![Pagina Principal con ingreso a cuenta](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-46-25.png)
 ![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-47-17.png)
 ![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-47-31.png)
 ![Texto alternativo](https://github.com/ChinoOrtega/CreppyPage/blob/master/Captura%20de%20pantalla_2017-12-05_13-47-36.png)
